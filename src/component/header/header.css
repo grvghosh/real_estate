@@ -1,0 +1,54 @@
+/* h3{
+    float: left;
+    padding-left: 20px;
+}
+
+#usenameinfo{
+ 
+    float: right;
+}
+
+#header{
+    width: 100%;
+    height: 200px;
+} */
+
+#header{
+    border: red;
+    width: 100%;
+    background-color: #F5F5F5;
+    
+}
+img{
+    height: 20%;
+    float: right;
+    display: inline;
+    margin-right: 10%;
+    margin-top: 3%;
+  
+  
+    
+}
+
+
+#userid{
+    margin-top: 35px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+#username{
+    float: right;
+    margin-top: 50px;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    
+    width: 190px;
+    
+}
+
+hr{
+    margin-left: 30px;
+}
+
